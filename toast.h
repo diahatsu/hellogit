@@ -1,7 +1,7 @@
 class toast
 {
     private:
-        int toast_level:
+        int toast_level;
         int toast_id;
 
     public:
