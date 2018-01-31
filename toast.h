@@ -1,6 +1,6 @@
 #ifndef TOAST_H
 #define TOAST_H
-
+#endif
 class toast
 {
     private:
