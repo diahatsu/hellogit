@@ -21,7 +21,7 @@ int main()
     for(int i = 1 ; i < 5 ; i++) //loop to print 4 vector elements
     {
         cout << "Toast #" << i << " is toasted at level ";
-        cout << breakfast[i].getToastLevel() << "//100" << endl;
+        cout << breakfast[i].getToastLevel() << "/100" << endl;
     }
 
     return 0;
