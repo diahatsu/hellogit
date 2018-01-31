@@ -34,7 +34,7 @@ class toast
         {
             toast_id = id;
         }
-        int getToastLevel() //get function (id)
+        int getToastID() //get function (id)
         {
             return toast_id;
         }
