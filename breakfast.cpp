@@ -22,6 +22,8 @@ int main()
     {
         cout << "Toast #" << i << " is toasted at level ";
         cout << breakfast[i-1].getToastLevel() << "/100" << endl;
+	cout << "Toast #" << i << " had the ID of ";
+	cout << breakfast[i-1].getToastID() << endl;
     }
 
     return 0;
